@@ -6,7 +6,7 @@ function Soluciones() {
                 <p className="text-muted mx-auto" style={{ maxWidth: "720px" }}>
                     Ofrecemos soluciones integrales que combinan hardware, software y servicios especializados
                     para optimizar tus procesos y potenciar tu transformación digital.
-                </p>
+                </p> 
             </div>
 
             <div className="row g-4">
